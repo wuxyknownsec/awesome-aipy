@@ -1,6 +1,5 @@
 AiPy 爱派
-English
- | 简体中文
+[English](README_EN.md) | 简体中文
 
 自然语言转 Python 执行的本地 AI 助手 —— 代码即代理（Code as Agent）
 
