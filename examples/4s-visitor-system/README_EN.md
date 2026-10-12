@@ -41,8 +41,8 @@ User Takeaways:
 Business users can define requirements too: no coding needed — just describe the management logic clearly
 No more manual reconciliation: data is stored in real time, with one-click Excel export
 Local deployment is more secure: customer data never leaves the dealership, meeting auto-retail compliance requirements
-Screenshots
-![4S店访客管理系统运行界面](https://www.aipyaipy.com/cases/case2/材料/4S店访客管理系统.png)
+## Screenshots
+![4S Dealership Visitor Management System UI](https://www.aipyaipy.com/cases/case2/材料/4S店访客管理系统.png)
 FAQ
 Q1: Does AiPy require an internet connection?
 A: No. AiPy runs fully locally — your data never leaves your computer, keeping customer privacy secure.
