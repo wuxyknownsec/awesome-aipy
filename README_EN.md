@@ -22,10 +22,11 @@ Just describe what you need in plain language, for example:
 Sum up the total sales across all Excel files in the current directory and generate a bar chart.
 AiPy will automatically generate and run the corresponding Python code, then hand the result back to you.
 
-Case Studies
-Case	Description
-4S Dealership Visitor Management System
-Build a local desktop management system packaged as an EXE from a single prompt
+| Case | Description |
+|------|-------------|
+| [4S Dealership Visitor Management System](examples/4s-visitor-system/README.md) | Build a local desktop management system packaged as an EXE from a single prompt |
+| [Batch Image Processing](examples/batch-image-processing/README.md) | Batch watermark, compress, rename, and convert images in one prompt |
+
 Project Structure
 Contributing
 Issues and Pull Requests are welcome.
