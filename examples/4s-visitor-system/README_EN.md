@@ -33,9 +33,8 @@ User Takeaways
 Business users can define requirements too: no coding needed — just describe the management logic clearly
 No more manual reconciliation: data is stored in real time, with one-click Excel export
 Local deployment is more secure: customer data never leaves the dealership, meeting auto-retail compliance requirements
-Screenshot
-4S Dealership Visitor Management System UI
-
+## Screenshot
+![4S Dealership Visitor Management System UI](https://www.aipyaipy.com/cases/case2/材料/4S店访客管理系统.png)
 Related Links
 Original case study: 
 https://www.aipyaipy.com/cases/case2/
