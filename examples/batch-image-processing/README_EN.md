@@ -41,8 +41,15 @@ User Testimonial
 
 —— Mr. Wang | Photography enthusiast, 5 years of experience, using AiPy for 1 month
 
-Related Links
-Original case study: 
-https://www.aipyaipy.com/cases/case6/
-AiPy website: 
-https://www.aipyaipy.com
+## Screenshots
+**Add Watermark**
+![Add Watermark](https://www.aipyaipy.com/cases/case6/材料/水印.png)
+**Compression**
+![Compression](https://www.aipyaipy.com/cases/case6/材料/压缩.png)
+**Batch Renaming**
+![Batch Renaming](https://www.aipyaipy.com/cases/case6/材料/重命名.png)
+**Format Conversion**
+![Format Conversion](https://www.aipyaipy.com/cases/case6/材料/格式转换.png)
+## Related Links
+- Original case study: https://www.aipyaipy.com/cases/case6/
+- AiPy website: https://www.aipyaipy.com
