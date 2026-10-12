@@ -22,9 +22,10 @@ AiPy（爱派）是由 北京知道创宇（Knownsec） 研发的开源 AI 桌�
 AiPy 会自动生成并执行对应的 Python 代码，把结果直接交付给你。
 
 实战案例
-案例	说明
-4S 店访客管理系统
-一句话开发可打包成 EXE 的本地桌面管理系统
+| 案例 | 说明 |
+|------|------|
+| [4S 店访客管理系统](examples/4s-visitor-system/README.md) | 一句话开发可打包成 EXE 的本地桌面管理系统 |
+| [批量图片处理](examples/batch-image-processing/README.md) | 一句话批量加水印、压缩、重命名、转格式 |
 项目结构
 贡献指南
 欢迎提交 Issue 与 Pull Request。
