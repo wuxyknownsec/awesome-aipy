@@ -41,8 +41,15 @@ AiPy 自动干活过程
 
 —— 王同学 | 摄影爱好者，5 年摄龄，使用 AiPy 1 个月
 
-相关链接
-案例原文：
-https://www.aipyaipy.com/cases/case6/
-AiPy 官网：
-https://www.aipyaipy.com
+## 截图
+**添加水印**
+![添加水印](https://www.aipyaipy.com/cases/case6/材料/水印.png)
+**压缩处理**
+![压缩处理](https://www.aipyaipy.com/cases/case6/材料/压缩.png)
+**批量重命名**
+![批量重命名](https://www.aipyaipy.com/cases/case6/材料/重命名.png)
+**格式转换**
+![格式转换](https://www.aipyaipy.com/cases/case6/材料/格式转换.png)
+## 相关链接
+- 案例原文：https://www.aipyaipy.com/cases/case6/
+- AiPy 官网：https://www.aipyaipy.com
